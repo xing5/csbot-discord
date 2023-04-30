@@ -1,0 +1,8 @@
+discord.py
+openai
+requests
+zenpy
+weaviate-client
+tiktoken 
+langchain
+trafilatura
